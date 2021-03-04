@@ -1,4 +1,4 @@
-#¡Bienvenido a mi presentacion! :tw-1f31f:
+#¡Bienvenido a mi presentacion!
 
 Mi idea con este proyecto es hacer una pagina web cada vez mas interactiva y estructurada a medida que mis conocimientos aumenten. Lograr que este readme aumente segun las cosas nuevas que se le hayan añadido, y poder tener una timeline de mi progreso como programador.
 
